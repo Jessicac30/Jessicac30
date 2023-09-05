@@ -48,4 +48,4 @@
 	
 
 
-![Snake animation](https://github.com/GustavoMachado22/GustavoMachado22/blob/output/github-contribution-grid-snake.svg)
+
